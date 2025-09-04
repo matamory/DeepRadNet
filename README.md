@@ -2,13 +2,15 @@
  
 Overview
 
-    Objective
+    Objective: (Deep Learning)
     
-    Motivation
+    Motivation: (Personal background)
     
 Demo
-
+    (walkthrough gif)
+    
 Features
+    
     
 Dataset 
 
@@ -24,7 +26,7 @@ Results
 
 Limitations
 
-Future Work
+Future Work/Scalability
 
 Acknowledgements
 
